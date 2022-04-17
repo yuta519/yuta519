@@ -1,1 +1,3 @@
-Hello, I'm Yuta Kawamura.
+# Hello, I'm Yuta Kawamura ✋
+
+- From Japane 🇯🇵
