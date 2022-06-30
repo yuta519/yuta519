@@ -1,7 +1,7 @@
 # Hello, I'm Yuta Kawamura ✋
 
 ## Who is Yuta Kawamura?
-- From Japane 🇯🇵
+- From Japan 🇯🇵
 - Refer my career background belows
   - [LinkedIn](https://www.linkedin.com/in/yuta519/)
   - [Portfolio Site](https://yuta519.github.io/)
@@ -9,6 +9,7 @@
 ## My interests
 - Architecture Design
   - Learned some architecture designs like DDD, Clean architecture, MVC.
+  - Architecture designs are absolutely important for team to make high efficiency.
   - I belive clean code and architecture are really beautiful.
 - Web3.0
   - Surprising ideas, ownership of digital contents.
