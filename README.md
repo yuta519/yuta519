@@ -17,6 +17,10 @@
   - Especially, I'm intersted in DID.
   - Also want to learn zero-knowledge proof
 
+## Activities
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuta519&theme=vue)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+## Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=yuta519&count_private=true&show_icons=true" />
 </a>
