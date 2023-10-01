@@ -13,13 +13,13 @@
   - Learned some architecture designs like DDD, Clean architecture, MVC.
   - Architecture designs are absolutely important for team to make high efficiency.
   - I belive clean code and architecture are really beautiful.
+- AI
+  - ChatGPT & Whisper
+  - Vector Serch with OpenAI Embedding
 - Web3.0
   - Surprising ideas, ownership of digital contents.
   - Especially, I'm intersted in DID.
   - Also want to learn zero-knowledge proof
-- AI
-  - ChatGPT & Whisper
-  - Vector Serch with OpenAI Embedding
 
 ## Activities
 
