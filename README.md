@@ -1,7 +1,7 @@
 # Hello, I'm Yuta Kawamura ✋
 
-## Who is Yuta Kawamura?
-- From Japan 🇯🇵, Based in Vancouver, Canada 🇨🇦
+## Who is he?
+- From Japan 🇯🇵, Based in Canada 🇨🇦
 - Refer to my career background below
   - [LinkedIn](https://www.linkedin.com/in/yuta519/)
   - [Portfolio Site](https://yuta519.github.io/)
