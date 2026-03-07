@@ -14,8 +14,9 @@
 - Readable Codes
   - Software engineering is a team job.
   - Making readable codes is significant for members to collaborate.
-  - Keep in mind what I learned from the books, [Refactoring
-    Improving the Design of Existing Code](https://martinfowler.com/books/refactoring.html) and [The Art of Readable Code](https://www.oreilly.com/library/view/the-art-of/9781449318482/)
+  - Keep in mind what I learned from the books
+    - [Refactoring Improving the Design of Existing Code](https://martinfowler.com/books/refactoring.html)
+    - [The Art of Readable Code](https://www.oreilly.com/library/view/the-art-of/9781449318482/)
 - Teamworking & Collaboration
   - I believe that great teams can achieve the best things that one genius does.
   - Like to collaborate not only with other developers but also with business members.
