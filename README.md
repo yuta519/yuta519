@@ -7,7 +7,7 @@
   - [Portfolio Site](https://yuta519.github.io/)
 
 ## My interests
-- Architecture Design
+- Software Architecture
   - Experienced software architecture designs like DDD, Modular Monolith, and MVC.
   - Software srchitecture designs are absolutely important for the team to make high efficiency.
   - Interested in how to build well-architected designs.
